@@ -1,0 +1,14 @@
+#header{
+    text-align: center;
+}
+#footer { 
+    display: block;
+    padding-bottom: 50%;
+    background-color: black;
+    color: white;
+  }
+  img {
+    border-radius: 8px;
+   /* width: 300; 
+    height: 300;*/
+  }
