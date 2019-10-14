@@ -1,14 +1,23 @@
-#header{
-    text-align: center;
+.header_style{
+    align-content: center;
+    background-color: grey;
 }
-#footer { 
+.header_style #change_h1{
+  color:red;
+}
+.image_style {
+    border-radius: 20px;
+    border-color: rgb(61, 61, 21);
+    border-width: 10px;
+    border-style: solid;
+    width: 30%; 
+    height: 30%;
+  }
+
+  #footer { 
     display: block;
-    padding-bottom: 50%;
+    padding: 20%;
     background-color: black;
     color: white;
   }
-  img {
-    border-radius: 8px;
-   /* width: 300; 
-    height: 300;*/
-  }
+  
