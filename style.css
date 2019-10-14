@@ -14,9 +14,10 @@
     height: 30%;
   }
 
-  #footer { 
+  .footer { 
     display: block;
-    padding: 20%;
+    position:absolute;
+    bottom: 0%;
     background-color: black;
     color: white;
   }
